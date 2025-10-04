@@ -1,7 +1,7 @@
 ⭐ Olá! me chamo Virgínia!
 
-🎓 Sou estudante de Tecnologia da Informação <br>
-📂 Aqui compartilho minha evolução, experimentos e trabalhos pessoais 
+🎓 Sou estudante de Tecnologia da Informação. <br>
+📂 Aqui compartilho minha evolução, experimentos e trabalhos pessoais.
 
 ---
 
