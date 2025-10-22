@@ -33,13 +33,13 @@
 />
 
 <img 
-    lign="left" 
+    align="left" 
     alt="Node.js" 
-    title="Figma"
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    />
 
 <img 
     align="left" 
@@ -52,7 +52,7 @@
 
 
 <img 
-    lign="left" 
+    align="left" 
     alt="Figma" 
     title="Figma"
     width="30px" 
@@ -60,6 +60,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
           
+<br>
 
 ### 📊 Estatísticas
 
